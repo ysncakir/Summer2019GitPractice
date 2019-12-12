@@ -1,15 +1,8 @@
-D.C.
-PA
-TX
-FL
-MD
-CT
-CA
-NE
-GA
-NY
-AL
-NJ
-CANADA
-AZ
-KS
+Washington
+Texas
+Connecticut
+California
+New York
+Florida
+Nebraska
+Alabama
