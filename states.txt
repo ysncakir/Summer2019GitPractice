@@ -11,3 +11,5 @@ NY
 AL
 NJ
 CANADA
+AZ
+KS
