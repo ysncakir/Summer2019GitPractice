@@ -8,6 +8,15 @@ public class Person {
     public String city;
     public String country;
 
+    public Person(int age ){
+        this.age = age;
+    }
+    public static void main(String[] args) {
+        String name ="yasin";
+        System.out.println(name);
+
+    }
+
     
 
 }
