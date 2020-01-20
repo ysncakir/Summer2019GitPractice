@@ -9,3 +9,5 @@ Alabama
 Florida
 Georgia
 D.C.
+Arizona
+Alabama
